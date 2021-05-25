@@ -1,0 +1,21 @@
+body{
+  background-image: url(../img/Fondo2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.foto {
+  border-radius:50%;
+}
+h1{
+  color: white;
+}
+p{
+  font-size:1.1rem;
+  color:white;
+}
+a:hover{
+  background-color:white;
+  opacity: 0.82;
+}
